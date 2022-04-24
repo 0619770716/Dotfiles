@@ -1,2 +1,3 @@
 # Dotfiles
-This myConfig XMonad && XMobar Enjoy !!!
+This myConfig XMonad && XMobar .
+Enjoy !!!
